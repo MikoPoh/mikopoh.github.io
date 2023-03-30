@@ -1,10 +1,10 @@
-## Portfolio
+## Projects portfolio
 
 ---
 
-### Category Name 1 
+### HDB exploratory data analysis and modeling 
 
-[Project 1 Title](/sample_page)
+[HDB exploratory data analysis and modeling readme]([/sample_page](https://github.com/MikoPoh/HDB-EDA-data-analysis))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
